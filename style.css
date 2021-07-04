@@ -1,0 +1,29 @@
+body {
+  background: skyblue;
+}
+p {
+  color: azure;
+  font-family:arial,helvetica, sans-serif;
+  font size:20px;
+
+}
+h1 {
+  font-weight: bold;
+color:azure;
+  font-family: arial,helvetica, sans-serif;
+
+}
+h2 {
+  font-weight: bold;
+  color:red;
+  font-family: arial,helvetica, sans-serif;
+
+}
+
+img{
+  
+  border-style:double;
+  padding: 10px;
+  border-color: yellow;
+  margin:5px;
+}
